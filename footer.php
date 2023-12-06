@@ -16,10 +16,9 @@
 </head>
 <body>
   <div id="footer" >
-  <b><center>COPYRIGHT © 2020<br>
+  <b><center>COPYRIGHT © 2023<br>
   Blood Bank & Donation Management
   <br>
-  ALL RIGHTS RESERVED.
   </center>
   </div>
 
