@@ -7,7 +7,7 @@
 
 .header {
   overflow:hidden;
-  background-color: #333;
+  background-color: #952323;
   top: 0;
   width:100%;
   padding: 10px 5px;
@@ -31,7 +31,7 @@
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
-  color:#FF0404  ;
+  color: white  ;
 }
 
 /* Change the background color on mouse-over */

@@ -41,7 +41,7 @@ include('head.php'); ?>
         <img src="image\_107317099_blooddonor976.jpg" alt="image\_107317099_blooddonor976.jpg" width="100%" height="500">
       </div>
       <div class="carousel-item">
-        <img src="image\Blood-facts_10-illustration-graphics__canteen.png" alt="image\Blood-facts_10-illustration-graphics__canteen.png" width="100%" height="500">
+        <img src="image\blood-donation-benefits.jpg" alt="image\Blood-facts_10-illustration-graphics__canteen.png" width="100%" height="500">
       </div>
 
     </div>
@@ -55,12 +55,12 @@ include('head.php'); ?>
     </a>
   </div>
 <br>
-        <h1 style="text-align:center;font-size:45px;"> to BloodBank & Donor Management System</h1>
+        <h1 style="text-align:center;font-size:45px;">BloodBank & Donor Management System</h1>
 <br>
         <div class="row">
             <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <h4 class="card-header card bg-info text-white" >The need for blood</h4>
+                    <h4 class="card-header card  text-white" style="background-color:#FF9B50" >The need for blood</h4>
 
                         <p class="card-body overflow-auto" style="padding-left:2%;height:120px;text-align:left;">
                           <?php
@@ -79,7 +79,7 @@ include('head.php'); ?>
             </div>
             <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <h4 class="card-header card bg-info text-white">Blood Tips</h4>
+                     <h4 class="card-header card  text-white" style="background-color:#FF9B50" >Blood Tips</h4>
 
                     <p class="card-body overflow-auto" style="padding-left:2%;height:120px;text-align:left;">
                       <?php
@@ -99,7 +99,7 @@ include('head.php'); ?>
             </div>
             <div class="col-lg-4 mb-4">
                 <div class="card">
-                    <h4 class="card-header card bg-info text-white" >Who you could Help</h4>
+                     <h4 class="card-header card  text-white" style="background-color:#FF9B50" >Who you could Help</h4>
 
                     <p class="card-body overflow-auto" style="padding-left:2%;height:120px;text-align:left;">
                       <?php

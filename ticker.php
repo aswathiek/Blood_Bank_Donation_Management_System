@@ -14,7 +14,7 @@
   }
 }
 .blue {
-    background: #347fd0;
+    background: #E25E3E;
 }
 
 .news {
@@ -54,7 +54,7 @@
 </head>
 <body>
 <div class="news blue">
-<span style="background-color:#F60F0F;width:125px;height:50px">Latest Updates</span><span class="text1" ><marquee>First blood donation camp to be organised in Hisar By Varun in collabration with Blood Bank& Donation Management System on <b>01/09/2020 at Community Centre PLA.</b> Come and Be a Part of this Noble Cause :) </marquee></span>
+<span style="background-color:#E25E3E;width:125px;height:50px;">Latest :   </span><span class="text1" ><marquee>Sinu, in collaboration with the Blood Bank & Donation Management System, is organizing the first blood donation camp in Hisar on 01/09/2020, but this time it will be held at the City Hall. Join us at this new location and be a part of this noble cause! :) </marquee></span>
 </div>
 </body>
 </head>
