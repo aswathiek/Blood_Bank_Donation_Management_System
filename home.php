@@ -171,7 +171,7 @@ include('head.php'); ?>
 
             </div>
             <div class="col-lg-6">
-                <img class="img-fluid rounded" src="image\blood_donationcover.jpeg" alt="" >
+                <!-- <img class="img-fluid rounded" src="image\blood_donationcover.jpeg" alt="" > -->
             </div>
         </div>
         <!-- /.row -->
@@ -179,7 +179,7 @@ include('head.php'); ?>
         <hr>
 
         <!-- Call to Action Section -->
-        <div class="row mb-4">
+        <div style="display:flex;flex-direction:column" class="row mb-4">
             <div class="col-md-8">
             <h4>UNIVERSAL DONORS AND RECIPIENTS</h4>
             <p>
@@ -195,14 +195,16 @@ include('head.php'); ?>
 
                ?></p>
               </div>
-            <div class="col-md-4">
-                <a class="btn btn-lg btn-secondary btn-block" href="donate_blood.php" style="align:center; background-color:#7FB3D5;color:#273746 ">Become a Donor </a>
+            <div style="display:flex;align-items:center;justify-content:center">
+            <div class="col-md-4" >
+                <a class="btn btn-lg btn-secondary btn-block" href="donate_blood.php" style="align:center; background-color:#E25E3E;color:black ">Become a Donor </a>
+            </div>
             </div>
         </div>
 
     </div>
   </div>
-  <?php include('footer.php');?>
+  <!-- <?php include('footer.php');?> -->
 </div>
 
 </body>
